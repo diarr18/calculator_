@@ -22,8 +22,8 @@ body {
 .calculator-grid > button {
   cursor: pointer;
   font-size: 2rem;
-  border: 2px solid rgb(63, 42, 27);
-  outline: none;
+  border: 10px solid rgb(63, 42, 27);
+  outline: ridge;
   background-color: rgba(158, 158, 158, 0.3);
 }
 
@@ -45,6 +45,7 @@ body {
   padding: 10px;
   word-wrap: break-word;
   word-break: break-all;
+  outline: ridge;
 }
 
 .output .previous-operand {
