@@ -48,11 +48,11 @@ body {
 }
 
 .output .previous-operand {
-  color: black;
+  color: white;
   font-size: 2.5rem;
 }
 
 .output .current-operand {
-  color: black;
+  color: white;
   font-size: 2.5rem;
 }
